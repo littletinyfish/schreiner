@@ -1,6 +1,6 @@
 ***
 Page: 8 (including the last sentence carrying over from Page 7 and the first sentence carrying over to page 9)
-Date: 2014-09-01
+Date: 2014-13-31
 Translator: Jason McDowell (littletinyfish)
 I've included transcriptions of the original German text, which may prove useful for double checking meaning and accuracy.
 ***
