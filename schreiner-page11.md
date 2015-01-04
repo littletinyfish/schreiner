@@ -87,8 +87,4 @@ Together with Gerhard Eisler, Alexander Abusch, Anton Ackermann, Walter Beling a
 
 h3. Page 12
 
-**Deutsch**
-…
-
-**English**
-…
+No carryover.
